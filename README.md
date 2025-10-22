@@ -1,25 +1,20 @@
-# CodeX Shortcuts
-
-CodeX shortcuts is a micro-library for dispatching keyboard shortcuts in Javascript. 
-You don't need external dependencies. 
-
 ## Installation
 
 Package is available on NPM
 
 ```
-npm install @codexteam/shortcuts --save
+npm install @showgoods/shortcuts --save
 ```
 
 ## Usage
 
 Require module if you use Webpack or ES6 
 ```javascript
-const Shortcut = require('@codexteam/shortcuts');
+const Shortcut = require('@showgoods/shortcuts');
 ```
 or 
 ```javascript
-import Shortcut from '@codexteam/shortcuts'
+import Shortcut from '@showgoods/shortcuts'
 ```
 
 ### Creating a shortcut
@@ -60,20 +55,3 @@ Supported commands : ```shift```, ```cmd```, ```command```, ```ctrl```,
 other words we pass as keys and special commands. Special commands are:
 ```backspace```, ```enter```, ```right```, ```left```, ```up```, ```down```, 
 ```escape```, ```insert```, ```delete```.
-
-## Contribution
-
-To contribute, please fork, add your patch and tests for it (in the test/ folder) and submit a pull request.
-
-CodeX is a team united of passionate people who loves web development, design and marketing.  
-We build a full-valued projects on the world area.
-
-Feel free to give us a feedback [team@ifmo.su](team@ifmo.su)
-
-Follow us on:
-
-VK: [https://vk.com/codex_team](https://vk.com/codex_team)
-
-Telegram: [https://t.me/codex_team](https://t.me/codex_team)
-
-Instagram: [https://www.instagram.com/codex_team](https://www.instagram.com/codex_team)

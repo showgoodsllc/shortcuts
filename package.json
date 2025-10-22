@@ -1,24 +1,19 @@
 {
-  "name": "@codexteam/shortcuts",
-  "version": "1.2.0",
-  "description": "Library for handling keyboard shortcuts",
+  "name": "@showgoods/shortcuts",
+  "version": "0.0.0",
   "main": "./dist/shortcuts.js",
   "scripts": {
-    "test": "test",
-    "build:dev": "webpack --mode development",
-    "build:watch": "webpack --mode development --watch",
     "build": "webpack --mode production"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/codex-team/codex.shortcuts.git"
+    "url": "git+https://github.com/showgoodsllc/shortcuts.git"
   },
-  "author": "CodeX (https://codex.so)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/codex-team/codex.shortcuts/issues"
+    "url": "https://github.com/showgoodsllc/shortcuts/issues"
   },
-  "homepage": "https://github.com/codex-team/codex.shortcuts#readme",
+  "homepage": "https://github.com/showgoodsllc/shortcuts#readme",
   "devDependencies": {
     "@babel/core": "^7.3.4",
     "@babel/plugin-proposal-decorators": "^7.4.0",

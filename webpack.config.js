@@ -1,8 +1,5 @@
 /**
  * Webpack config
- *
- * @author CodeX (team@ifmo.su) https://github.com/codex-team/webpack-build-config
- * @copyright CodeX 2017
  */
 
 const path = require('path');

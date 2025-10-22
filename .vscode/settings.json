@@ -1,0 +1,20 @@
+{
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
+    ".vscode": true,
+    "dist": true,
+    "node_modules": true,
+    ".babelrc": true,
+    ".eslintrc": true,
+    ".gitignore": true,
+    ".jshintrc": true,
+    "bundleComment.js": true,
+    "LICENSE": true,
+    "package-lock.json": true,
+    "webpack.config.js": true
+  }
+}

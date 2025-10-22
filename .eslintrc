@@ -68,7 +68,6 @@
     "require": true,
     "window": true,
     "console" : true,
-    "codex": true,
     "VERSION" : true,
     "Promise" : true,
     "MutationObserver": true,

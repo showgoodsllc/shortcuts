@@ -10,7 +10,7 @@
   // Define globals exposed by Node.js.
   "node": true,
 
-  // Define globals exposed by CodeX Team
+  // Define globals exposed by ShowGoods Team
   "predef": [],
 
   // Allow ES6.
